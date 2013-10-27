@@ -1,5 +1,5 @@
-﻿create database dbOrbitalPC_ProyectoPrograIII_Sept2012
-use dbOrbitalPC_ProyectoPrograIII_Sept2012
+﻿create database dbJaranerosPC
+use dbJaranerosPC
 exec sp_addtype codigo, 'bigint','not null'
 
 create table Cliente(

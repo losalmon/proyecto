@@ -3,3 +3,8 @@ C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentac
 C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Utilitarios\obj\Debug\ResolveAssemblyReference.cache
 C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Utilitarios\obj\Debug\Utilitarios.dll
 C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Utilitarios\obj\Debug\Utilitarios.pdb
+C:\Git\Proyecto Progra III\Presentacion\Utilitarios\bin\Debug\Utilitarios.dll
+C:\Git\Proyecto Progra III\Presentacion\Utilitarios\bin\Debug\Utilitarios.pdb
+C:\Git\Proyecto Progra III\Presentacion\Utilitarios\obj\Debug\ResolveAssemblyReference.cache
+C:\Git\Proyecto Progra III\Presentacion\Utilitarios\obj\Debug\Utilitarios.dll
+C:\Git\Proyecto Progra III\Presentacion\Utilitarios\obj\Debug\Utilitarios.pdb

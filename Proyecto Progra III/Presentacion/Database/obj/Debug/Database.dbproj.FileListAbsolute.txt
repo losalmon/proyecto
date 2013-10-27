@@ -4,3 +4,9 @@ C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentac
 C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Database\sql\debug\Database.deploymanifest
 C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Database\sql\debug\Database.dbschema
 C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Database\obj\Debug\Database.dbschema
+C:\Git\Proyecto Progra III\Presentacion\Database\sql\debug\Database_Database.sqlsettings
+C:\Git\Proyecto Progra III\Presentacion\Database\sql\debug\Database_Database.sqldeployment
+C:\Git\Proyecto Progra III\Presentacion\Database\sql\debug\Database_Database.sqlcmdvars
+C:\Git\Proyecto Progra III\Presentacion\Database\sql\debug\Database.deploymanifest
+C:\Git\Proyecto Progra III\Presentacion\Database\sql\debug\Database.dbschema
+C:\Git\Proyecto Progra III\Presentacion\Database\obj\Debug\Database.dbschema

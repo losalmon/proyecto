@@ -6,3 +6,11 @@ C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentac
 C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Dal\obj\Debug\GenerateResource.write.1.tlog
 C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Dal\obj\Debug\Dal.dll
 C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Dal\obj\Debug\Dal.pdb
+C:\Git\Proyecto Progra III\Presentacion\Dal\bin\Debug\Dal.dll
+C:\Git\Proyecto Progra III\Presentacion\Dal\bin\Debug\Dal.pdb
+C:\Git\Proyecto Progra III\Presentacion\Dal\obj\Debug\ResolveAssemblyReference.cache
+C:\Git\Proyecto Progra III\Presentacion\Dal\obj\Debug\Dal.Properties.Resources.resources
+C:\Git\Proyecto Progra III\Presentacion\Dal\obj\Debug\GenerateResource.read.1.tlog
+C:\Git\Proyecto Progra III\Presentacion\Dal\obj\Debug\GenerateResource.write.1.tlog
+C:\Git\Proyecto Progra III\Presentacion\Dal\obj\Debug\Dal.dll
+C:\Git\Proyecto Progra III\Presentacion\Dal\obj\Debug\Dal.pdb

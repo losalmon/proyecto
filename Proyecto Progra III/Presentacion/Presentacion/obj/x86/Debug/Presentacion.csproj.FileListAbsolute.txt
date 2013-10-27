@@ -30,3 +30,27 @@ G:\Analisis de Sistemas 2\Proyecto\Proyecto\Proyecto Progra III\Presentacion\Pre
 G:\Analisis de Sistemas 2\Proyecto\Proyecto\Proyecto Progra III\Presentacion\Presentacion\obj\x86\Debug\Presentacion.pdb
 C:\Users\Miguel Alanis\Desktop\Proyecto Progra III\Presentacion\Presentacion\obj\x86\Debug\Presentacion.exe
 C:\Users\Miguel Alanis\Desktop\Proyecto Progra III\Presentacion\Presentacion\obj\x86\Debug\Presentacion.pdb
+C:\Git\Proyecto Progra III\Presentacion\Presentacion\obj\x86\Debug\Presentacion.exe
+C:\Git\Proyecto Progra III\Presentacion\Presentacion\obj\x86\Debug\Presentacion.pdb
+C:\Git\Proyecto Progra III\Presentacion\Presentacion\bin\Debug\Presentacion.exe
+C:\Git\Proyecto Progra III\Presentacion\Presentacion\bin\Debug\Presentacion.pdb
+C:\Git\Proyecto Progra III\Presentacion\Presentacion\bin\Debug\Dal.dll
+C:\Git\Proyecto Progra III\Presentacion\Presentacion\bin\Debug\Negocio.dll
+C:\Git\Proyecto Progra III\Presentacion\Presentacion\bin\Debug\Utilitarios.dll
+C:\Git\Proyecto Progra III\Presentacion\Presentacion\bin\Debug\Dal.pdb
+C:\Git\Proyecto Progra III\Presentacion\Presentacion\bin\Debug\Negocio.pdb
+C:\Git\Proyecto Progra III\Presentacion\Presentacion\bin\Debug\Utilitarios.pdb
+C:\Git\Proyecto Progra III\Presentacion\Presentacion\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Git\Proyecto Progra III\Presentacion\Presentacion\obj\x86\Debug\Presentacion.FrmBuscarCliente.resources
+C:\Git\Proyecto Progra III\Presentacion\Presentacion\obj\x86\Debug\Presentacion.FrmBuscarComprador.resources
+C:\Git\Proyecto Progra III\Presentacion\Presentacion\obj\x86\Debug\Presentacion.FrmBuscarPedido.resources
+C:\Git\Proyecto Progra III\Presentacion\Presentacion\obj\x86\Debug\Presentacion.FrmBuscarProducto.resources
+C:\Git\Proyecto Progra III\Presentacion\Presentacion\obj\x86\Debug\Presentacion.FrmCliente.resources
+C:\Git\Proyecto Progra III\Presentacion\Presentacion\obj\x86\Debug\Presentacion.FrmFabricante.resources
+C:\Git\Proyecto Progra III\Presentacion\Presentacion\obj\x86\Debug\Presentacion.FrmPedido.resources
+C:\Git\Proyecto Progra III\Presentacion\Presentacion\obj\x86\Debug\Presentacion.FrmProducto.resources
+C:\Git\Proyecto Progra III\Presentacion\Presentacion\obj\x86\Debug\Presentacion.FrmReporte.resources
+C:\Git\Proyecto Progra III\Presentacion\Presentacion\obj\x86\Debug\Presentacion.MDIParent.resources
+C:\Git\Proyecto Progra III\Presentacion\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+C:\Git\Proyecto Progra III\Presentacion\Presentacion\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Git\Proyecto Progra III\Presentacion\Presentacion\obj\x86\Debug\GenerateResource.write.1.tlog

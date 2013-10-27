@@ -6,3 +6,11 @@ C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentac
 C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Reportes\bin\Debug\Reportes.dll.config
 C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Reportes\obj\Debug\RdlCompile.cache
 C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Reportes\obj\Debug\RdlCompile.compiled
+C:\Git\Proyecto Progra III\Presentacion\Reportes\bin\Debug\Reportes.dll.config
+C:\Git\Proyecto Progra III\Presentacion\Reportes\bin\Debug\Reportes.dll
+C:\Git\Proyecto Progra III\Presentacion\Reportes\bin\Debug\Reportes.pdb
+C:\Git\Proyecto Progra III\Presentacion\Reportes\obj\Debug\ResolveAssemblyReference.cache
+C:\Git\Proyecto Progra III\Presentacion\Reportes\obj\Debug\RdlCompile.cache
+C:\Git\Proyecto Progra III\Presentacion\Reportes\obj\Debug\RdlCompile.compiled
+C:\Git\Proyecto Progra III\Presentacion\Reportes\obj\Debug\Reportes.dll
+C:\Git\Proyecto Progra III\Presentacion\Reportes\obj\Debug\Reportes.pdb
