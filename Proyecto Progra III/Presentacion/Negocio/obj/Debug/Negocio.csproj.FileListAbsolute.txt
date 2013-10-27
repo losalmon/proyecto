@@ -1,0 +1,9 @@
+C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Negocio\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Negocio\bin\Debug\Negocio.dll
+C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Negocio\bin\Debug\Negocio.pdb
+C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Negocio\bin\Debug\Dal.dll
+C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Negocio\bin\Debug\Utilitarios.dll
+C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Negocio\bin\Debug\Dal.pdb
+C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Negocio\bin\Debug\Utilitarios.pdb
+C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Negocio\obj\Debug\Negocio.dll
+C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Negocio\obj\Debug\Negocio.pdb
