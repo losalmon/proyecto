@@ -1,0 +1,54 @@
+C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Presentacion\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Presentacion\obj\x86\Debug\Presentacion.FrmCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Presentacion\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Presentacion\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Presentacion\bin\Debug\Presentacion.exe
+C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Presentacion\bin\Debug\Presentacion.pdb
+C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Presentacion\bin\Debug\Dal.dll
+C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Presentacion\bin\Debug\Negocio.dll
+C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Presentacion\bin\Debug\Utilitarios.dll
+C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Presentacion\bin\Debug\Dal.pdb
+C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Presentacion\bin\Debug\Negocio.pdb
+C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Presentacion\bin\Debug\Utilitarios.pdb
+C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Presentacion\obj\x86\Debug\Presentacion.exe
+C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Presentacion\obj\x86\Debug\Presentacion.pdb
+C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Presentacion\obj\x86\Debug\Presentacion.FrmFabricante.resources
+C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Presentacion\obj\x86\Debug\Presentacion.FrmProducto.resources
+C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Presentacion\obj\x86\Debug\Presentacion.FrmBuscarProducto.resources
+C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Presentacion\obj\x86\Debug\Presentacion.FrmBuscarCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Presentacion\obj\x86\Debug\Presentacion.FrmPedido.resources
+C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Presentacion\obj\x86\Debug\Presentacion.MDIParent.resources
+C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Presentacion\obj\x86\Debug\Presentacion.FrmBuscarComprador.resources
+C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Presentacion\obj\x86\Debug\Presentacion.FrmReporte.resources
+C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Presentacion\obj\x86\Debug\Presentacion.FrmBuscarPedido.resources
+D:\UTEPSA\Programacion 3\Proyectos\Proyecto Progra III - v2\Proyecto Progra III\Presentacion\Presentacion\obj\x86\Debug\Presentacion.exe
+D:\UTEPSA\Programacion 3\Proyectos\Proyecto Progra III - v2\Proyecto Progra III\Presentacion\Presentacion\obj\x86\Debug\Presentacion.pdb
+D:\UTEPSA\Analisis de Sistemas 2\Proyecto\Proyecto\Proyecto Progra III\Presentacion\Presentacion\obj\x86\Debug\Presentacion.exe
+D:\UTEPSA\Analisis de Sistemas 2\Proyecto\Proyecto\Proyecto Progra III\Presentacion\Presentacion\obj\x86\Debug\Presentacion.pdb
+G:\Analisis de Sistemas 2\Proyecto\Proyecto\Proyecto Progra III\Presentacion\Presentacion\obj\x86\Debug\Presentacion.exe
+G:\Analisis de Sistemas 2\Proyecto\Proyecto\Proyecto Progra III\Presentacion\Presentacion\obj\x86\Debug\Presentacion.pdb
+C:\Users\Canito\Desktop\Proyecto Ing de Soft\Presentacion\Presentacion\obj\x86\Debug\Presentacion.exe
+C:\Users\Canito\Desktop\Proyecto Ing de Soft\Presentacion\Presentacion\obj\x86\Debug\Presentacion.pdb
+C:\Users\Canito\Desktop\Proyecto Ing de Soft\Presentacion\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Canito\Desktop\Proyecto Ing de Soft\Presentacion\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Canito\Desktop\Proyecto Ing de Soft\Presentacion\Presentacion\bin\Debug\Dal.dll
+C:\Users\Canito\Desktop\Proyecto Ing de Soft\Presentacion\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Canito\Desktop\Proyecto Ing de Soft\Presentacion\Presentacion\bin\Debug\Utilitarios.dll
+C:\Users\Canito\Desktop\Proyecto Ing de Soft\Presentacion\Presentacion\bin\Debug\Dal.pdb
+C:\Users\Canito\Desktop\Proyecto Ing de Soft\Presentacion\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Canito\Desktop\Proyecto Ing de Soft\Presentacion\Presentacion\bin\Debug\Utilitarios.pdb
+C:\Users\Canito\Desktop\Proyecto Ing de Soft\Presentacion\Presentacion\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Canito\Desktop\Proyecto Ing de Soft\Presentacion\Presentacion\obj\x86\Debug\Presentacion.FrmBuscarCliente.resources
+C:\Users\Canito\Desktop\Proyecto Ing de Soft\Presentacion\Presentacion\obj\x86\Debug\Presentacion.FrmBuscarComprador.resources
+C:\Users\Canito\Desktop\Proyecto Ing de Soft\Presentacion\Presentacion\obj\x86\Debug\Presentacion.FrmBuscarPedido.resources
+C:\Users\Canito\Desktop\Proyecto Ing de Soft\Presentacion\Presentacion\obj\x86\Debug\Presentacion.FrmBuscarProducto.resources
+C:\Users\Canito\Desktop\Proyecto Ing de Soft\Presentacion\Presentacion\obj\x86\Debug\Presentacion.FrmCliente.resources
+C:\Users\Canito\Desktop\Proyecto Ing de Soft\Presentacion\Presentacion\obj\x86\Debug\Presentacion.FrmFabricante.resources
+C:\Users\Canito\Desktop\Proyecto Ing de Soft\Presentacion\Presentacion\obj\x86\Debug\Presentacion.FrmPedido.resources
+C:\Users\Canito\Desktop\Proyecto Ing de Soft\Presentacion\Presentacion\obj\x86\Debug\Presentacion.FrmProducto.resources
+C:\Users\Canito\Desktop\Proyecto Ing de Soft\Presentacion\Presentacion\obj\x86\Debug\Presentacion.FrmReporte.resources
+C:\Users\Canito\Desktop\Proyecto Ing de Soft\Presentacion\Presentacion\obj\x86\Debug\Presentacion.MDIParent.resources
+C:\Users\Canito\Desktop\Proyecto Ing de Soft\Presentacion\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Canito\Desktop\Proyecto Ing de Soft\Presentacion\Presentacion\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Canito\Desktop\Proyecto Ing de Soft\Presentacion\Presentacion\obj\x86\Debug\GenerateResource.write.1.tlog

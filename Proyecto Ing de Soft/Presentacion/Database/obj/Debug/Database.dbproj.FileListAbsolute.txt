@@ -1,0 +1,12 @@
+C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Database\sql\debug\Database_Database.sqlsettings
+C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Database\sql\debug\Database_Database.sqldeployment
+C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Database\sql\debug\Database_Database.sqlcmdvars
+C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Database\sql\debug\Database.deploymanifest
+C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Database\sql\debug\Database.dbschema
+C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Database\obj\Debug\Database.dbschema
+C:\Users\Canito\Desktop\Proyecto Ing de Soft\Presentacion\Database\sql\debug\Database_Database.sqlsettings
+C:\Users\Canito\Desktop\Proyecto Ing de Soft\Presentacion\Database\sql\debug\Database_Database.sqldeployment
+C:\Users\Canito\Desktop\Proyecto Ing de Soft\Presentacion\Database\sql\debug\Database_Database.sqlcmdvars
+C:\Users\Canito\Desktop\Proyecto Ing de Soft\Presentacion\Database\sql\debug\Database.deploymanifest
+C:\Users\Canito\Desktop\Proyecto Ing de Soft\Presentacion\Database\sql\debug\Database.dbschema
+C:\Users\Canito\Desktop\Proyecto Ing de Soft\Presentacion\Database\obj\Debug\Database.dbschema

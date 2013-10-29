@@ -1,0 +1,16 @@
+C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Dal\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Dal\bin\Debug\Dal.dll
+C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Dal\bin\Debug\Dal.pdb
+C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Dal\obj\Debug\Dal.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Dal\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Dal\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Dal\obj\Debug\Dal.dll
+C:\Documents and Settings\Administrador\Escritorio\Proyecto Progra III\Presentacion\Dal\obj\Debug\Dal.pdb
+C:\Users\Canito\Desktop\Proyecto Ing de Soft\Presentacion\Dal\bin\Debug\Dal.dll
+C:\Users\Canito\Desktop\Proyecto Ing de Soft\Presentacion\Dal\bin\Debug\Dal.pdb
+C:\Users\Canito\Desktop\Proyecto Ing de Soft\Presentacion\Dal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Canito\Desktop\Proyecto Ing de Soft\Presentacion\Dal\obj\Debug\Dal.Properties.Resources.resources
+C:\Users\Canito\Desktop\Proyecto Ing de Soft\Presentacion\Dal\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Canito\Desktop\Proyecto Ing de Soft\Presentacion\Dal\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Canito\Desktop\Proyecto Ing de Soft\Presentacion\Dal\obj\Debug\Dal.dll
+C:\Users\Canito\Desktop\Proyecto Ing de Soft\Presentacion\Dal\obj\Debug\Dal.pdb
